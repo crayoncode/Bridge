@@ -1,0 +1,6 @@
+E:\visualstudio2012\Projects\Bridge\Bridge\bin\Debug\Bridge.exe.config
+E:\visualstudio2012\Projects\Bridge\Bridge\bin\Debug\Bridge.exe
+E:\visualstudio2012\Projects\Bridge\Bridge\bin\Debug\Bridge.pdb
+E:\visualstudio2012\Projects\Bridge\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+E:\visualstudio2012\Projects\Bridge\Bridge\obj\Debug\Bridge.exe
+E:\visualstudio2012\Projects\Bridge\Bridge\obj\Debug\Bridge.pdb
